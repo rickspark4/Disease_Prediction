@@ -3,7 +3,7 @@
 Since the dataset wasn't provided to Build this tool i used dataset available on Kaggle (https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning).
 
 
-## DataSet Description:
+### DataSet Description:
 
 1) Dataset contains total 4920 Rows and 133 Columns.
 2) Dataset contains total 41 unique Diseases to predict.
@@ -14,7 +14,7 @@ Since the dataset wasn't provided to Build this tool i used dataset available on
 (Note- Dataset doesn't contain symptoms for Covid-19)
 
 
-Data Preparation:
+### Data Preparation:
 
 1) Dataset doesn't contain any Null value.
 2) Values in dataset ranges between 0 & 1 so there is no need to use any Standardization method.
@@ -22,7 +22,7 @@ Data Preparation:
 4) Almost all the Symptoms has very weak linear corelation in between, so we can consider all the feature for our model.
 
 
-How to use Tool :
+### How to use Tool :
 
 
 1) Tool is in the form of .py file
@@ -33,7 +33,7 @@ symptoms one by one.
 3) after Entering symptoms top 3 most probable disease will return in the decending order of the probablity.
 
 
-Algorithm:
+### Algorithm:
 
 Choosing algorithm is wholely depend upon the type of data we have, in my case the dataset which i used is small dataset and contained specific number of rows, all the columns are 
 categorical in nature. Since my dataset was small i decided to use Random Forest and Naive Bayes, for the smaller datasets these two algorithm works very well, Small datasets always 
@@ -47,9 +47,9 @@ in our dataset which is actually high dimensional data.Other than that Our all f
 Forest.
 
 
-Actual Working of the ML Tool:
+### Actual Working of the Algorithm & ML Tool:
 
-I will try to explain it in Lahman's way
+I will try to explain it in Lehman's way
 
 Naïve Bayes is a probabilistic machine learning algorithm which works on principle of Bayes Theorem.
 
