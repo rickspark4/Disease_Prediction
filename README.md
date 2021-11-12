@@ -35,14 +35,14 @@ symptoms one by one (User must enter symptoms from Dictionary provided in predic
 
 ### Algorithm:
 
-Choosing algorithm is wholely depend upon the type of data we have, in my case the dataset which i used is small dataset and contained specific number of rows, all the columns are 
+Choosing algorithm is wholely depend upon the type of data we have, in my case the dataset which i used is small dataset and contained specific number of rows and all the columns are 
 categorical in nature. Since my dataset was small i decided to use Random Forest and Naive Bayes, for the smaller datasets these two algorithm works very well, Small datasets always 
 leads to overfiiting which we can avoid using Random Forest, since Random forest uses multiple decision tree which trains on small chunks of data and uses voting method to process its 
 output at the end which avoids overfitting other than that Naive bayes is also best for small datasets and Multi-Class Classification, since our dataset is small and all of the our 
 feature are categorical in nature and it allows independent and equal contribution of each feature in decision making which makes this algorithm best for this kind of task.
 
 Since, I got 100% Accuracy on both of the algorithm for my test dataset other than that precision and recall is also same for both of the algorithm.
-but i decided to use Naive Bayes in my actual tool, due to its special ability to treat each feature as an indepent and its works well on High Dimentional data since we have 133 columns in our dataset which is actually high dimensional data.Other than that Our all features are categorical in nature which actually best for Naive bayes and it is also faster than Random Forest.
+but i decided to use Naive Bayes in my actual tool, due to its special ability to treat each feature as an indepent and its works well on High Dimentional data since we have 133 columns in our dataset which is actually high dimensional data.Other than that Our all features are categorical in nature which actually best for Naive bayes and it is also faster than Random Forest. Thats why i believe ML tool using Naive Bayes Algorithm can give us best possible solution.
 
 
 ### Actual Working of the Algorithm & ML Tool:
