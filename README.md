@@ -25,10 +25,10 @@ Since the dataset wasn't provided to Build this tool i used dataset available on
 ### How to use Tool :
 
 
-1) Tool is in the form of .py file
+1) Tool is in the form of Prediction.py file
 
 2) To get Disease as a output user has to Enter total number of symtoms he/she wants to enter. After entering number user can enter their
-symptoms one by one.
+symptoms one by one (User must enter symptoms from Dictionary provided in prediction.py file ). 
 
 3) after Entering symptoms top 3 most probable disease will return in the decending order of the probablity.
 
