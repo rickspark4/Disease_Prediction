@@ -1,4 +1,4 @@
-## Choose Sympoms from Dictionary Provide
+#Choose Symptoms from Provided Dictionary
 
 
 import numpy as np
