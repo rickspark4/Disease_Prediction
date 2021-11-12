@@ -94,7 +94,7 @@ In Training Phase what Naive bayes does is  create a Frequency Table for each at
 and finally, use the Naïve Bayesian equation to calculate the (Final) posterior probability for each class. 
 
 
-Note- I also attached Word file  to explain Naive Bayes with Dummy Example
+Note- I also attached Word file to explain Naive Bayes with Dummy Example where i also explained what exactly happens during Training Phase.
 
 
 
