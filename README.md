@@ -1,5 +1,19 @@
 # Disease_Prediction
 
+Since the dataset wasn't provided to Build this tool i used dataset available on Kaggle (https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning).
+
+
+DataSet Description:
+
+1) Dataset contains total 4920 Rows and 133 Columns.
+2) Dataset contains total 41 unique Diseases to predict.
+3) Dataset has 133 columns and each column representing unique Symptom.
+4) Each dataset column contain 2 unique values i.e, (0 & 1). If symptom has particular role to cause that disease then it considered as 
+   1 otherwise it will be 0.
+
+(Note- Dataset doesn't contain symptoms for Covid-19)
+
+
 Data Preparation:
 
 1) Dataset doesn't contain any Null value.
@@ -78,5 +92,21 @@ Likewise we calculate probablity for each and every class and whichever class ha
 
 In Training Phase what Naive bayes does is  create a Frequency Table for each attribute against the target. Then, molding the frequency tables to Likelihood Tables 
 and finally, use the Naïve Bayesian equation to calculate the (Final) posterior probability for each class. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
