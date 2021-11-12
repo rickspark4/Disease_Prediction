@@ -3,7 +3,7 @@
 Since the dataset wasn't provided to Build this tool i used dataset available on Kaggle (https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning).
 
 
-DataSet Description:
+## DataSet Description:
 
 1) Dataset contains total 4920 Rows and 133 Columns.
 2) Dataset contains total 41 unique Diseases to predict.
