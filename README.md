@@ -42,9 +42,7 @@ output at the end which avoids overfitting other than that Naive bayes is also b
 feature are categorical in nature and it allows independent and equal contribution of each feature in decision making which makes this algorithm best for this kind of task.
 
 Since, I got 100% Accuracy on both of the algorithm for my test dataset other than that precision and recall is also same for both of the algorithm.
-but i decided to use Naive Bayes in my actual tool, due to its special ability to treat each feature as an indepent and its works well on High Dimentional data since we have 133 columns 
-in our dataset which is actually high dimensional data.Other than that Our all features are categorical in nature which actually best for Naive bayes and it is also faster than Random
-Forest.
+but i decided to use Naive Bayes in my actual tool, due to its special ability to treat each feature as an indepent and its works well on High Dimentional data since we have 133 columns in our dataset which is actually high dimensional data.Other than that Our all features are categorical in nature which actually best for Naive bayes and it is also faster than Random Forest.
 
 
 ### Actual Working of the Algorithm & ML Tool:
