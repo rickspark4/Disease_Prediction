@@ -94,6 +94,8 @@ and finally, use the Naïve Bayesian equation to calculate the (Final) posterior
 
 Note- I also attached Word file to explain Naive Bayes with Dummy Example where i also explained what exactly happens during Training Phase.
 
+Note1- Creating Api of this ML tool could be the good idea which can eleminate things like selecting symptoms from dictionary provided in prediction.py file, but i wasn't good at creating front end thats why i skipped API part.
+
 
 
 
